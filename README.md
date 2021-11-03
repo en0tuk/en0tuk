@@ -1,6 +1,6 @@
 # En0tik
 ## Contacts
-- Discord - [En0tuK#8844](En0tuK#8844)
+- Discord - [En0tuK#8844](hello.md)
 
 <!--
 **Rogalik-play/Rogalik-play** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
